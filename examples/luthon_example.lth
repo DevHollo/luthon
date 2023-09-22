@@ -1,0 +1,38 @@
+use time as tm
+
+for i in loop(100) <
+   log("Hello World!")
+   tm.wait(1)
+>
+
+;; Single Line Comment
+
+;{
+Multi
+Line
+Comment
+};
+
+str hello = "Hello"
+str world = "World"
+str hello_world = join(hello, " ", world)
+
+log(v"{hello}, {world}!")
+
+log(hello_world)
+
+func add(a, b) <
+   return a + b
+>
+
+log(add(1, 1))
+
+class math <
+   func add(a, b) <
+      return a + b
+   >
+>
+
+log(math.add(1, 1))
+
+;; Python: None | Luthon: null
