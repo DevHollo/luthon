@@ -36,3 +36,15 @@ class math <
 log(math.add(1, 1))
 
 ;; Python: None | Luthon: null
+
+str age = prompt("How Old Are You: ")
+
+if toint(age) == 13 <
+   bool is_teen = true
+   log(v"Age: {age}\nIs a Teenager: {is_teen}")
+> elseif toint(age) ~= 13 <
+   bool is_teen = false
+   log(v"Age: {age}\nIs a Teenager: {is_teen}")
+> else <
+   log("age is null")
+>
