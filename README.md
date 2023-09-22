@@ -20,6 +20,7 @@
 | `import` | `use` |
 | `joined = var1 + var2` | `var joined = join(var1, var2)` |
 | `from package import func` | `inside package use func` |
+| `elif` | `elseif` |
 ```
 ;{
 This
