@@ -1,5 +1,5 @@
 # Luthon Info
-- Mix of a few other languages
+- Mix of a few languages
 - The name is a mix of Python and Lua
 - I made this cause I was bored
 - Luthon is fully open source
