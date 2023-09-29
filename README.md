@@ -46,6 +46,3 @@ Comment
 - [ ] Make Package Installer Command
 - [ ] Make Website For Luthon
 - [ ] Make Visual Studio Code Extension
-
-# Luthon's Icon
-![image](https://www.linkpicture.com/q/icon_13.png)
