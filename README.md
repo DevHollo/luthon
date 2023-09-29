@@ -4,6 +4,7 @@
 - I made this cause I was bored
 - Luthon is fully open source
 - Unlike Python, Luthon is a Compiler
+- Join the Luthon Discord server [here](https://discord.gg/rdYMCNKKBg)
 
 # Syntax Stuff
 | Python | Luthon |
@@ -40,6 +41,7 @@ Comment
 
 # Checklist
 - [x] Make Icon
+- [x] Make A Discord Server
 - [ ] Make Compiler
 - [ ] Make Built In Packages
 - [ ] Make Setup exe
